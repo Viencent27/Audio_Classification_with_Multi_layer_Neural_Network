@@ -3,4 +3,4 @@ The final project assignment for the "Introduction to Multimedia Data Processing
 
 The audio samples can be obtained at the following link: https://drive.google.com/file/d/11xtdHj70bgzYEqcrLO6mmJis6pGkIxmf/view?usp=sharing
 
-Don't forget to change the project_directory path in 'Main.py'.
+Don't forget to change the project_directory path in `Main.py`.
